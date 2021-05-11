@@ -157,3 +157,11 @@ Author: Debalina Chakaraborty <dc411419@ohio.edu>
 Date:   Tue May 11 19:03:02 2021 -0400
 
     Initial commit
+
+
+Answer 9:
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean 
