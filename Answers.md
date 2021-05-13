@@ -165,3 +165,39 @@ Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean 
+
+
+
+Answer 10:
+Name: Debalina Chakraborty
+GitHub Username: Cdebalina
+
+class CS2400, Section 107
+
+
+Answer 11:
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 787 bytes | 196.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Cdebalina/git-lab.git
+   016d959..53c05b9  main -> main
+
+
+Answer 12:
+Name: Debalina Chakraborty
+GitHub Username: Cdebalina
+
+class CS2400, Section 107
+
+
+Answer 13:
+Directory: C:\Users\DEBALINA CHAKRABORTY\Desktop\CS2400
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/11/2021   7:46 PM                git-lab
+d-----         5/11/2021   8:01 PM                git-lab-2
+-a----         5/10/2021   2:30 PM       49871216 Git-2.31.1-64-bit.exe
